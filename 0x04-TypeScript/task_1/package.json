@@ -1,0 +1,22 @@
+{
+  "name": "typescript_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10",
+    "typescript": "^3.7.5"
+  },
+  "devDependencies": {
+    "@types/babel__traverse": "^7.14.2",
+    "@types/jest": "^24.9.0",
+    "eslint": "^6.8.0",
+    "eslint-plugin-import": "^2.20.1",
+    "jest": "^24.9.0",
+    "ts-loader": "^6.2.1"
+  }
+}
